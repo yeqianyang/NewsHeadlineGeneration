@@ -1,4 +1,4 @@
-# NLP final project
+# NLP:Headline Generation System for Chinese News Articles
 
 This folder contains the code for my NLP final project.
 
